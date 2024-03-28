@@ -9,6 +9,6 @@
     <h1>Hello AWS PHP Github</h1>
     <h2>CICD pipeline github actions</h2>
     <h3>Testing again</h3>
-    
+    <p><?php echo date("d/m/Y");?></p>
 </body>
 </html>
