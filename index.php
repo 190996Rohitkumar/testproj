@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello AWS PHP Github</h1>
+    <h2>CICD pipeline github actions</h2>
 </body>
 </html>
