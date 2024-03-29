@@ -1,8 +1,8 @@
 <?php
-$dbuser="";
-$dbname="";
-$hostname="";
-$dbpass;
+$dbuser="root";
+$dbname="crudphp";
+$hostname="localhost";
+$dbpass="R0hit@85390";
 
 $conn=new mysqli($hostname,$dbuser,$dbpass,$dbname);
 echo "<pre>";
