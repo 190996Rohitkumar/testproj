@@ -2,7 +2,7 @@
 $dbuser="root";
 $dbname="phpcrud";
 $hostname="localhost";
-$dbpass="R0hit@51471";
+$dbpass="";
 try{
     $conn=new mysqli($hostname,$dbuser,$dbpass,$dbname);
     print_r($conn);
