@@ -1,6 +1,6 @@
 <?php
 $dbuser="root";
-$dbname="crudphp";
+$dbname="phpcrud";
 $hostname="localhost";
 $dbpass="R0hit@51471";
 
