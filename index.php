@@ -21,8 +21,10 @@ $dbpass="R0hit@51471";
 // }catch(Exception $e){
 //     echo $e->getMessage();
 // }
-
+echo $dbuser;
 echo $dbname;
+echo $dbuser;
+echo $hostname;
 
 
 
