@@ -22,7 +22,7 @@ $dbpass="R0hit@51471";
 //     echo $e->getMessage();
 // }
 
-echo $dbuser;
+echo $dbname;
 
 
 
