@@ -10,5 +10,6 @@
     <h2>CICD pipeline github actions</h2>
     <h3>Testing again</h3>
     <p><?php echo date("d/m/Y");?></p>
+    <p>cicd demo</p>
 </body>
 </html>
